@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/res/merged/debug/xml/widget_info_take_photo.xml",
+        "source": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/src/main/res/xml/widget_info_take_photo.xml"
+    },
+    {
+        "merged": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/res/merged/debug/xml/widget_info.xml",
+        "source": "/Users/JoelBuhrman/Documents/opencamerasrc 21/app/src/main/res/xml/widget_info.xml"
+    }
+]

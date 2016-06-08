@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d6ded5d40eed1df7455bccf50149bbc513d808e">
+        <dex dex="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8f370e2578d0731b0a445774891c82ad7cadd52/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_68d96899c8da48c28039ade4940c58038d62debf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d1e473d44532497990dbfc05db88f2d7f3d97407/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bcbc455f63c3d7acbb027492777ab89a4bb588d">
+        <dex dex="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c57c5027f970ad6effa2f4a42de89c390908330/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/JoelBuhrman/Documents/opencamerasrc 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_fcaaeac453e61343971b98bd68962b90f823cdde/classes.dex" />
+    </item>
+
+</items>
